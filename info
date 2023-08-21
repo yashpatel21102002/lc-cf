@@ -1,0 +1,19 @@
+// multiple admin - writer support
+// there will be home , leetcode , codeforces, codechef , others , about , contact , blogs 
+
+// home page consists all created contests // there will be one search option to search contest 
+// then there will be result
+
+
+// clicking on contest there will be page explaining the problems
+
+
+// admin side 
+
+admin will be able to create contest 
+
+- after creating contest any admin will be able to add questions to that contest 
+
+
+--> very simple but useful website
+
